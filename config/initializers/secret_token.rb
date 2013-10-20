@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-FortuneTeller::Application.config.secret_key_base = '4435baf683dd64e543b9ed02b6ab21b278aea5210bece346f0097e4af1fc7669ddf8fe8ac14af049e7063d9ce31708278b5751b1430f7785bbe207ee720ce8d3'
+FortuneTeller::Application.config.secret_key_base = '8ae183fdd8aace5ef294098714844ec01ccb835652535e8e951ab0bf92302c5f23440a09f3f8b052f59e05315986851e11327c220fca3698cbcab32395c4670f'
